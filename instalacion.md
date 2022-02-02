@@ -1,6 +1,6 @@
 # Instalación de Helm
 
-Para instalar Helm simplemente hay que descargar el binario y descomprimirlo con el comando
+Para instalar Helm simplemente hay que descargar el binario, descomprimirlo con el comando
 
 `tar -zxvf helm-v3.8.0-linux-amd64.tar.gz `
 
