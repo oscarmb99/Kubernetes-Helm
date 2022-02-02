@@ -16,4 +16,4 @@ Se puede comprobar de varias formas:
 
 Para acceder a la aplicación hay que poner en el navegador la IP de minikube y el puerto que se le haya asignado.
 
-(https://github.com/oscarmb99/Kubernetes-Helm/blob/main/imagenes/comprobacion.png)
+- [ Comprobación ](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/imagenes/comprobacion.png)
