@@ -1,4 +1,4 @@
-# Kubernetes-Helm
+# Kubernetes:Helm
 
 ## Índice
 1. [ ¿Qué es Helm? ¿Qué son los charts? ](https://github.com/oscarmb99/Kubernetes-Helm/blob/main/descripcion.md)
