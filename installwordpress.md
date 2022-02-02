@@ -8,6 +8,9 @@ Para instalar wordpress se usa el comando `helm install wordpress bitnami/wordpr
 
 2. Comprobación de los objetos creados.
 
+Se puede comprobar de varias formas:
+- Con el comando `helm status wordpress`
+- Visualizando qué hay en kubernetes con `kubectl get all`
 
 3. Acceso a la aplicación
 
