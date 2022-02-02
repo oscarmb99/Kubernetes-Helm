@@ -16,4 +16,9 @@ Para eliminarlo se usa: `helm repo remove bitnami`.
 
 4. Buscar charts: nginx, wordpress, etc
 
-Para buscar un chart se usa el comando `helm search repo nginx` (en el caso que se quiera buscar nginx).
+Para buscar un chart se usa el comando 
+
+`helm search repo nginx` (en el caso que se quiera buscar nginx).
+
+
+`helm search repo wordpress` (en el caso que se quiera buscar wordpress).
